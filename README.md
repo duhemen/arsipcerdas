@@ -242,6 +242,3 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 Made with ❤️ by [duhemen](https://github.com/duhemen)
 ---
-```
-
----
