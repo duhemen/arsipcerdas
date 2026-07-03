@@ -1,3 +1,4 @@
+---
 <div align="center">
 # 🚀 ArsipCerdas
 
@@ -16,7 +17,7 @@
 
 ## 🌟 **Why ArsipCerdas?**
 
-> *"Find your documents by meaning, not just by name."*
+*"Find your documents by meaning, not just by name."*
 
 ArsipCerdas is a **modern, AI-powered document search engine** that runs **100% offline** on your laptop. No cloud, no subscription, no privacy concerns.
 ---
