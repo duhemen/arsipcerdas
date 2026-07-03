@@ -236,21 +236,11 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-## 📞 **Contact**
-
-- **GitHub**: [@duhemen](https://github.com/duhemen)
-- **Repository**: [arsipcerdas](https://github.com/duhemen/arsipcerdas)
-- **Issues**: [Report a bug](https://github.com/duhemen/arsipcerdas/issues)
-
----
-
-<div align="center">
 
 ### ⭐ **If you like this project, give it a star!**
 
 Made with ❤️ by [duhemen](https://github.com/duhemen)
-
-</div>
+---
 ```
 
 ---
