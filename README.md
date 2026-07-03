@@ -39,7 +39,7 @@ ArsipCerdas is a **modern, AI-powered document search engine** that runs **100% 
 
 ### 📦 **Installation**
 
-```bash
+```
 #### 1. Clone repository
 git clone https://github.com/duhemen/arsipcerdas.git
 cd arsipcerdas
