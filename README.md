@@ -1,3 +1,4 @@
+---
 <div align="center">
 # 🚀 ArsipCerdas
 
@@ -10,13 +11,13 @@
 ![Offline](https://img.shields.io/badge/100%25-Offline-orange?style=for-the-badge)
 ![AI](https://img.shields.io/badge/AI-Powered-purple?style=for-the-badge)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/duhemen/arsipcerdas/main/docs/screenshot.png" alt="ArsipCerdas Screenshot" width="800">
+<p>
+  <img src="https://raw.githubusercontent.com/duhemen/arsipcerdas/main/screenshot.png" alt="ArsipCerdas Screenshot" width="800">
 </p>
 
 ## 🌟 **Why ArsipCerdas?**
 
-> *"Find your documents by meaning, not just by name."*
+*"Find your documents by meaning, not just by name."*
 
 ArsipCerdas is a **modern, AI-powered document search engine** that runs **100% offline** on your laptop. No cloud, no subscription, no privacy concerns.
 ---
@@ -44,13 +45,16 @@ git clone https://github.com/duhemen/arsipcerdas.git
 cd arsipcerdas
 ```
 #### 2. Create virtual environment
+```
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
-
+```
 #### 3. Install dependencies
+```
 pip install -r requirements.txt
-
+```
 #### 4. Run the application
+```
 python main.py
 ```
 
@@ -233,21 +237,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-## 📞 **Contact**
-
-- **GitHub**: [@duhemen](https://github.com/duhemen)
-- **Repository**: [arsipcerdas](https://github.com/duhemen/arsipcerdas)
-- **Issues**: [Report a bug](https://github.com/duhemen/arsipcerdas/issues)
-
----
-
-<div align="center">
 
 ### ⭐ **If you like this project, give it a star!**
 
 Made with ❤️ by [duhemen](https://github.com/duhemen)
-
-</div>
-```
-
 ---
