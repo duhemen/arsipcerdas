@@ -1,5 +1,3 @@
-<div align="center">
-
 # 🚀 ArsipCerdas
 
 ### *Intelligent Document Search Engine for Everyone*
