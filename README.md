@@ -40,18 +40,18 @@ ArsipCerdas is a **modern, AI-powered document search engine** that runs **100% 
 ### 📦 **Installation**
 
 ```bash
-# 1. Clone repository
+#### 1. Clone repository
 git clone https://github.com/duhemen/arsipcerdas.git
 cd arsipcerdas
 
-# 2. Create virtual environment
+#### 2. Create virtual environment
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 
-# 3. Install dependencies
+#### 3. Install dependencies
 pip install -r requirements.txt
 
-# 4. Run the application
+#### 4. Run the application
 python main.py
 ```
 
@@ -63,10 +63,10 @@ http://localhost:52341
 
 ### 🎯 **First Use Guide**
 
-1. **Upload Documents** - Drag & drop PDFs or click upload button
-2. **Search** - Type your query in the search bar
-3. **Preview** - Click "Preview" on any result
-4. **Export** - Export results to CSV/PDF
+#### 1. **Upload Documents** - Drag & drop PDFs or click upload button
+#### 2. **Search** - Type your query in the search bar
+#### 3. **Preview** - Click "Preview" on any result
+#### 4. **Export** - Export results to CSV/PDF
 
 ---
 
