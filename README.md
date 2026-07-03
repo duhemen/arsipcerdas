@@ -1,3 +1,4 @@
+<div align="center">
 # 🚀 ArsipCerdas
 
 ### *Intelligent Document Search Engine for Everyone*
@@ -14,7 +15,7 @@
 </p>
 
 ---
-
+</div>
 ## 🌟 **Why ArsipCerdas?**
 
 > *"Find your documents by meaning, not just by name."*
