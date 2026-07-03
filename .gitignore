@@ -1,0 +1,39 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Data
+data/
+temp_uploads/
+logs/
+*.db
+*.sqlite3
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+build/
+dist/
+*.spec
+*.exe
+
+# Models
+models/
+*.onnx
+*.safetensors
+
+# Environment
+.env
+.env.local
