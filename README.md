@@ -11,7 +11,7 @@
 ![Offline](https://img.shields.io/badge/100%25-Offline-orange?style=for-the-badge)
 ![AI](https://img.shields.io/badge/AI-Powered-purple?style=for-the-badge)
 
-<p align="center">
+<p>
   <img src="https://raw.githubusercontent.com/duhemen/arsipcerdas/main/screenshot.png" alt="ArsipCerdas Screenshot" width="800">
 </p>
 
