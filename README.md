@@ -14,7 +14,7 @@
   <img src="https://raw.githubusercontent.com/duhemen/arsipcerdas/main/docs/screenshot.png" alt="ArsipCerdas Screenshot" width="800">
 </p>
 
-##  **Why ArsipCerdas?**
+## 🌟 **Why ArsipCerdas?**
 
 > *"Find your documents by meaning, not just by name."*
 
