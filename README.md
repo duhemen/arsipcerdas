@@ -11,7 +11,7 @@
 ![AI](https://img.shields.io/badge/AI-Powered-purple?style=for-the-badge)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/duhemen/arsipcerdas/main/docs/screenshot.png" alt="ArsipCerdas Screenshot" width="800">
+  <img src="https://raw.githubusercontent.com/duhemen/arsipcerdas/main/screenshot.png" alt="ArsipCerdas Screenshot" width="800">
 </p>
 
 ## 🌟 **Why ArsipCerdas?**
