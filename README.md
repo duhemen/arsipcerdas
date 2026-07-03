@@ -43,7 +43,7 @@ ArsipCerdas is a **modern, AI-powered document search engine** that runs **100% 
 #### 1. Clone repository
 git clone https://github.com/duhemen/arsipcerdas.git
 cd arsipcerdas
-
+```
 #### 2. Create virtual environment
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
