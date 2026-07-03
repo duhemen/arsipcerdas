@@ -14,13 +14,13 @@
   <img src="https://raw.githubusercontent.com/duhemen/arsipcerdas/main/docs/screenshot.png" alt="ArsipCerdas Screenshot" width="800">
 </p>
 
----
-</div>
 ## 🌟 **Why ArsipCerdas?**
 
 > *"Find your documents by meaning, not just by name."*
 
 ArsipCerdas is a **modern, AI-powered document search engine** that runs **100% offline** on your laptop. No cloud, no subscription, no privacy concerns.
+---
+</div>
 
 ### 🎯 **The Problem We Solve**
 
