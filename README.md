@@ -44,13 +44,16 @@ git clone https://github.com/duhemen/arsipcerdas.git
 cd arsipcerdas
 ```
 #### 2. Create virtual environment
+```
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
-
+```
 #### 3. Install dependencies
+```
 pip install -r requirements.txt
-
+```
 #### 4. Run the application
+```
 python main.py
 ```
 
